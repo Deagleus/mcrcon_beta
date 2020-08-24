@@ -5,7 +5,7 @@ Hello ! Welcome to MCRcon v0.1 !It's a discord bot that connects to a minecraft 
 To use this bot u need to use Python 3.5 to 3.6 (Doesnt work 3.6+)
 
 # Setup
-when you run the bot for the first time , type !load firsttimesetup , after that type !load minecraft , and type !info it should show up as TEST TEST TEST , if it does you can use !setinfo now 
+type !info it should show up as TEST TEST TEST , if it does you can the bot works
 
 After that the commands are :
 
