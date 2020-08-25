@@ -57,7 +57,7 @@ async def restart(ctx, error):
           await ctx.send(msg)          
 
 
-bot.run('')
+bot.run('yourtokengayass')
 
 
 
